@@ -11,7 +11,7 @@ the M2 Installation Toolset.
 How to use it : 
 
 
-Step 1 - Create a database by executing the file "createdb.sh"
+Step 1 - Create a database by executing the file "createdb.sh" NOTE: Change the rootuser and rootpass in the script first.
 Step 2 - Install magento by running the file "installmagento2.sh" and follow the wizard questions
 Step 3 - When installed, make sure it was installed the right way by checking the provided admin
 	url against your credentials.
